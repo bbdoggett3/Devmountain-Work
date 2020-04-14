@@ -1,0 +1,9 @@
+Arrays:
+
+DevMountain Definition: Type of data that store multiple values in an organized and structured fashion.
+
+Online Definition: Special variable that stores multiple values in a single variable. You could just put it in 1 var but then 
+that would make it hard to loop through. We want arrays since it makes it easier to access the data we store inside our variable 
+(think of it like a container).
+
+Arrays can hold more than one piece of information unlike other variables. 
