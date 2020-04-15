@@ -1,0 +1,9 @@
+Objects: (THIS IS REALLY IMPORTANT IN PROGRAMMING AND SHOULD UNDERSTOOD BEN)
+They are a data type, stored in a single variable, that can store a collection of individually 
+indexed pieces of data.
+They are a collection of other data. In other word’s it allows you to store multiple variable in a
+single variable. They are like a box that can hold multiple things. They are the most common 
+construct we will use in this class.
+In the box we put in an identifier or commonly known as a key
+Key: is the label and the value is the data that we are attaching to the label (string, int, array,
+ect.)
