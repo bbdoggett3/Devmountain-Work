@@ -1,0 +1,10 @@
+Functions:
+
+A function is a set of actions that are assigned a name by a programmer, and that a computer can
+be called upon to perform at any point after the function has been defined. It’s a primary 
+organizational tool for us as developers
+
+Functions allow us to use the data we’ve stored in a simple way.
+
+Functions act a lot like a variable. However, rather than a single piece of data it can be an 
+entire block of code.
