@@ -7,3 +7,18 @@ construct we will use in this class.
 In the box we put in an identifier or commonly known as a key
 Key: is the label and the value is the data that we are attaching to the label (string, int, array,
 ect.)
+
+The sntax looks something like this... 
+
+var person = {                 //The curly braces hold the information inside the object and then we label it.
+  name: "Ben Doggett",        
+  age: 27,
+  state: "Idaho",
+  city: "Rexburg"
+}
+
+We can access the things inside our little box(object). In order to do that we need to use a '.' (dot/period)
+An example of this looks like the following:
+
+person(accessing the object).(reaching into the container/object)name(grabing the variable/label holding the data)
+Example: person.name
