@@ -18,3 +18,11 @@
 //let createVar = () => {
 //    let myName = "Ben";
 //}
+
+//How to invoke a funtion
+function createVar() {
+    let myName = "Ben";
+    console.log("What is your name? " + myName);
+}
+
+createVar();
