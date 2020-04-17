@@ -20,9 +20,16 @@
 //}
 
 //How to invoke a funtion
-function createVar() {
-    let myName = "Ben";
-    console.log("What is your name? " + myName);
+//function createVar() {
+//    let myName = "Ben";
+//    console.log("What is your name? " + myName);
+//}
+
+//createVar();
+
+function returnName() {
+    return "Ben";
 }
 
-createVar();
+let result = returnName();
+console.log(result);
