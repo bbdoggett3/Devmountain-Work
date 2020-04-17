@@ -4,6 +4,7 @@
 //How to invoke a function?
 //What is a return statement?
 
+//SECTION 1
 //Function Delcaration 
 //function createVar() {
 //    let myName = "Ben";
@@ -19,6 +20,7 @@
 //    let myName = "Ben";
 //}
 
+//SECTION 2
 //How to invoke a funtion
 //function createVar() {
 //    let myName = "Ben";
@@ -27,9 +29,27 @@
 
 //createVar();
 
-function returnName() {
-    return "Ben";
+//SECTION 3
+//function returnName() {
+//    return "Ben";
+//}
+
+//let result = returnName();
+//console.log(result);
+
+//SECTION 4
+//create a fuction declaration that returns 2 + 2:
+function sumReturn() {
+    var num1 = 2;
+    var num2 = 2;
+    var sum = num1 + num2;
+
+    return sum;
 }
 
-let result = returnName();
-console.log(result);
+//YOU CAN DO IT TWO WAYS, YOU CAN...
+//create another variable to store it...
+//or you can just call the function itself SEE EXAMPLES BELOW...
+
+//let result = sumReturn();
+console.log(sumReturn());
