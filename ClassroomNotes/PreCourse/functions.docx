@@ -8,3 +8,8 @@ Functions allow us to use the data we’ve stored in a simple way.
 
 Functions act a lot like a variable. However, rather than a single piece of data it can be an 
 entire block of code.
+
+You need to understand how to write the 3 different syntax's of functions, they are:
+  -Declaration
+  -Expression
+  -Arrow
