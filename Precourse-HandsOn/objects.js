@@ -15,5 +15,11 @@ var person2 = {
     age: "unknown"
 }
 
-console.log("Hello, " + person.name + ". You are from " + person.state + ". I like your " + person.haircut);
-console.log(person.name + " is " + person.age +" years old.");
+function sayHello(greetedPerson) {
+    console.log("Hello, " + greetedPerson.name + ". You are from " + greetedPerson.state + ". I like your " + greetedPerson.haircut);
+    console.log(greetedPerson.name + " is " + greetedPerson.age +" years old.");
+}
+
+//BELOW WAS USED IN MY EXAMPLE PRACTICE BEFORE I CREATED A FUNCTION.
+//console.log("Hello, " + person.name + ". You are from " + person.state + ". I like your " + person.haircut);
+//console.log(person.name + " is " + person.age +" years old.");
