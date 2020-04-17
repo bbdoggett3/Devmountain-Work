@@ -14,3 +14,4 @@ let copy= myFriends.slice(1, 2) //started copying the array at index 1 (missy) a
 
 
 
+
