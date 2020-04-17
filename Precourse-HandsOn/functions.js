@@ -37,7 +37,7 @@
 //let result = returnName();
 //console.log(result);
 
-//SECTION 4
+//SECTION 4 PROBELM 1
 //create a fuction declaration that returns 2 + 2:
 function sumReturn() {
     var num1 = 2;
@@ -53,3 +53,23 @@ function sumReturn() {
 
 //let result = sumReturn();
 console.log(sumReturn());
+
+//SECTION 5 PROBLEM 2
+//Create a function expression that returns the string "Hello"
+let createString = function() {
+
+    var stringHello = "Hello";
+
+    return stringHello; 
+}
+
+console.log(createString());
+
+//SECTION 6 PROBLEM 3
+//Create an arrow function that returns the boolean true
+//Is there a shorter syntax?
+let returnTrue = () => {
+    return true;
+}
+
+console.log(returnTrue());
