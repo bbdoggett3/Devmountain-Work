@@ -71,5 +71,10 @@ console.log(createString());
 let returnTrue = () => {
     return true;
 }
-
+//let result = returnTrue();    YOU COULD USE THIS FORMAT AS WELL TO CATCH THE RETURN AND STORE IT SOMEWHERE.
 console.log(returnTrue());
+
+//Is there a shorter syntax?
+//let returnTrue = () => true;
+//let result = returnTrue();
+//console.log(result);
