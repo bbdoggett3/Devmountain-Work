@@ -1,0 +1,11 @@
+Loops:
+
+Loops are a way to tell your computer to execute a piece of code over and over, until it reaches you’ve given it.
+
+As long as the condition is meet it will continue to run it over and over again. They can be a powerful tool if done correctly.
+It is conditional. If it is true it will continue to run, once the condition is false it will move on with the code.
+
+They are flexible. Think of an Ice cream example. Remember it Ben?
+
+Iterations are important in a loop because without them then you would be in a loop indefinitely. This iteration is done with 
+incrementation like this for example: i++
