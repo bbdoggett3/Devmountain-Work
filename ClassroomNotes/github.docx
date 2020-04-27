@@ -1,0 +1,16 @@
+In working with github and the command line it is important to know your commands
+something that is really helpful is the following...
+
+mkdir = making a folder
+touch = making a file 
+code . = opeing up in the command line your vs code
+
+when first starting with github you can use the following...
+
+git config --global user.name "INSERT YOUR USER NAMEHERE" 
+//YOU CAN FOLLOW THIS PATTERN FOR YOUR EMAIL AND PASSWORD ALSO
+
+//HOW TO PUSH TO github
+git add . //THIS WILL ADD ALL THE FILES 
+git commit -m"" //THIS WILL ACT AS A SAVE
+git push //THIS PUSHES EVERTHING TO THE CLOUD GITHUB
